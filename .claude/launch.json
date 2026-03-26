@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mia-landing",
+      "runtimeExecutable": "/usr/local/n/versions/node/20.3.1/bin/npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3333,
+      "autoPort": true,
+      "cwd": "/Users/admin/mia-landing"
+    }
+  ]
+}

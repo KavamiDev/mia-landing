@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Read(//usr/local/bin/**)",
+      "Read(//Users/work/.nvm/versions/node/**)",
+      "Read(//Users/work/.nvm/versions/**)",
+      "Read(//opt/homebrew/Cellar/node/17.0.1/bin/**)"
+    ]
+  }
+}
